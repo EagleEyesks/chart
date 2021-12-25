@@ -1,0 +1,62 @@
+[
+  {
+    "Week_Number": "week1",
+    "total": 500,
+    "confirmed": 400,
+    "death": 10
+  },
+  {
+    "Week_Number": "week2",
+    "total": 700,
+    "confirmed": 100,
+    "death": 15
+  },
+  {
+    "Week_Number": "week3",
+    "total": 800,
+    "confirmed": 150,
+    "death": 20
+  },
+  {
+    "Week_Number": "week4",
+    "total": 950,
+    "confirmed": 200,
+    "death": 25
+  },
+  {
+    "Week_Number": "week5",
+    "total": 1100,
+    "confirmed": 250,
+    "death": 20
+  },
+  {
+    "Week_Number": "week6",
+    "total": 1250,
+    "confirmed": 210,
+    "death": 21
+  },
+  {
+    "Week_Number": "week7",
+    "total": 1450,
+    "confirmed": 253,
+    "death": 10
+  },
+  {
+    "Week_Number": "week8",
+    "total": 1500,
+    "confirmed": 245,
+    "death": 5
+  },
+  {
+    "Week_Number": "week9",
+    "total": 1620,
+    "confirmed": 300,
+    "death": 3
+  },
+  {
+    "Week_Number": "week10",
+    "total": 1850,
+    "confirmed": 450,
+    "death": 2
+  }
+]
