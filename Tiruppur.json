@@ -1,0 +1,350 @@
+[
+  {
+    "Week_Number": 1,
+    "Confirmed_Cases": 0
+  },
+  {
+    "Week_Number": 2,
+    "Confirmed_Cases": 2
+  },
+  {
+    "Week_Number": 3,
+    "Confirmed_Cases": 0
+  },
+  {
+    "Week_Number": 4,
+    "Confirmed_Cases": 0
+  },
+  {
+    "Week_Number": 5,
+    "Confirmed_Cases": 0
+  },
+  {
+    "Week_Number": 6,
+    "Confirmed_Cases": 0
+  },
+  {
+    "Week_Number": 7,
+    "Confirmed_Cases": 0
+  },
+  {
+    "Week_Number": 8,
+    "Confirmed_Cases": 6
+  },
+  {
+    "Week_Number": 9,
+    "Confirmed_Cases": 8
+  },
+  {
+    "Week_Number": 10,
+    "Confirmed_Cases": 66
+  },
+  {
+    "Week_Number": 11,
+    "Confirmed_Cases": 71
+  },
+  {
+    "Week_Number": 12,
+    "Confirmed_Cases": 116
+  },
+  {
+    "Week_Number": 13,
+    "Confirmed_Cases": 219
+  },
+  {
+    "Week_Number": 14,
+    "Confirmed_Cases": 227
+  },
+  {
+    "Week_Number": 15,
+    "Confirmed_Cases": 232
+  },
+  {
+    "Week_Number": 16,
+    "Confirmed_Cases": 320
+  },
+  {
+    "Week_Number": 17,
+    "Confirmed_Cases": 395
+  },
+  {
+    "Week_Number": 18,
+    "Confirmed_Cases": 563
+  },
+  {
+    "Week_Number": 19,
+    "Confirmed_Cases": 681
+  },
+  {
+    "Week_Number": 20,
+    "Confirmed_Cases": 1048
+  },
+  {
+    "Week_Number": 21,
+    "Confirmed_Cases": 1478
+  },
+  {
+    "Week_Number": 22,
+    "Confirmed_Cases": 1480
+  },
+  {
+    "Week_Number": 23,
+    "Confirmed_Cases": 1349
+  },
+  {
+    "Week_Number": 24,
+    "Confirmed_Cases": 1126
+  },
+  {
+    "Week_Number": 25,
+    "Confirmed_Cases": 1191
+  },
+  {
+    "Week_Number": 26,
+    "Confirmed_Cases": 1037
+  },
+  {
+    "Week_Number": 27,
+    "Confirmed_Cases": 770
+  },
+  {
+    "Week_Number": 28,
+    "Confirmed_Cases": 828
+  },
+  {
+    "Week_Number": 29,
+    "Confirmed_Cases": 740
+  },
+  {
+    "Week_Number": 30,
+    "Confirmed_Cases": 543
+  },
+  {
+    "Week_Number": 31,
+    "Confirmed_Cases": 507
+  },
+  {
+    "Week_Number": 32,
+    "Confirmed_Cases": 463
+  },
+  {
+    "Week_Number": 33,
+    "Confirmed_Cases": 447
+  },
+  {
+    "Week_Number": 34,
+    "Confirmed_Cases": 420
+  },
+  {
+    "Week_Number": 35,
+    "Confirmed_Cases": 342
+  },
+  {
+    "Week_Number": 36,
+    "Confirmed_Cases": 268
+  },
+  {
+    "Week_Number": 37,
+    "Confirmed_Cases": 237
+  },
+  {
+    "Week_Number": 38,
+    "Confirmed_Cases": 187
+  },
+  {
+    "Week_Number": 39,
+    "Confirmed_Cases": 160
+  },
+  {
+    "Week_Number": 40,
+    "Confirmed_Cases": 190
+  },
+  {
+    "Week_Number": 41,
+    "Confirmed_Cases": 154
+  },
+  {
+    "Week_Number": 42,
+    "Confirmed_Cases": 108
+  },
+  {
+    "Week_Number": 43,
+    "Confirmed_Cases": 107
+  },
+  {
+    "Week_Number": 44,
+    "Confirmed_Cases": 105
+  },
+  {
+    "Week_Number": 45,
+    "Confirmed_Cases": 111
+  },
+  {
+    "Week_Number": 46,
+    "Confirmed_Cases": 145
+  },
+  {
+    "Week_Number": 47,
+    "Confirmed_Cases": 204
+  },
+  {
+    "Week_Number": 48,
+    "Confirmed_Cases": 245
+  },
+  {
+    "Week_Number": 49,
+    "Confirmed_Cases": 376
+  },
+  {
+    "Week_Number": 50,
+    "Confirmed_Cases": 771
+  },
+  {
+    "Week_Number": 51,
+    "Confirmed_Cases": 1272
+  },
+  {
+    "Week_Number": 52,
+    "Confirmed_Cases": 1764
+  },
+  {
+    "Week_Number": 53,
+    "Confirmed_Cases": 2788
+  },
+  {
+    "Week_Number": 54,
+    "Confirmed_Cases": 3332
+  },
+  {
+    "Week_Number": 55,
+    "Confirmed_Cases": 4575
+  },
+  {
+    "Week_Number": 56,
+    "Confirmed_Cases": 8306
+  },
+  {
+    "Week_Number": 57,
+    "Confirmed_Cases": 12332
+  },
+  {
+    "Week_Number": 58,
+    "Confirmed_Cases": 10311
+  },
+  {
+    "Week_Number": 59,
+    "Confirmed_Cases": 7202
+  },
+  {
+    "Week_Number": 60,
+    "Confirmed_Cases": 5229
+  },
+  {
+    "Week_Number": 61,
+    "Confirmed_Cases": 3160
+  },
+  {
+    "Week_Number": 62,
+    "Confirmed_Cases": 2297
+  },
+  {
+    "Week_Number": 63,
+    "Confirmed_Cases": 1980
+  },
+  {
+    "Week_Number": 64,
+    "Confirmed_Cases": 1481
+  },
+  {
+    "Week_Number": 65,
+    "Confirmed_Cases": 831
+  },
+  {
+    "Week_Number": 66,
+    "Confirmed_Cases": 635
+  },
+  {
+    "Week_Number": 67,
+    "Confirmed_Cases": 611
+  },
+  {
+    "Week_Number": 68,
+    "Confirmed_Cases": 580
+  },
+  {
+    "Week_Number": 69,
+    "Confirmed_Cases": 610
+  },
+  {
+    "Week_Number": 70,
+    "Confirmed_Cases": 506
+  },
+  {
+    "Week_Number": 71,
+    "Confirmed_Cases": 513
+  },
+  {
+    "Week_Number": 72,
+    "Confirmed_Cases": 599
+  },
+  {
+    "Week_Number": 73,
+    "Confirmed_Cases": 675
+  },
+  {
+    "Week_Number": 74,
+    "Confirmed_Cases": 650
+  },
+  {
+    "Week_Number": 75,
+    "Confirmed_Cases": 630
+  },
+  {
+    "Week_Number": 76,
+    "Confirmed_Cases": 553
+  },
+  {
+    "Week_Number": 77,
+    "Confirmed_Cases": 567
+  },
+  {
+    "Week_Number": 78,
+    "Confirmed_Cases": 525
+  },
+  {
+    "Week_Number": 79,
+    "Confirmed_Cases": 526
+  },
+  {
+    "Week_Number": 80,
+    "Confirmed_Cases": 477
+  },
+  {
+    "Week_Number": 81,
+    "Confirmed_Cases": 430
+  },
+  {
+    "Week_Number": 82,
+    "Confirmed_Cases": 364
+  },
+  {
+    "Week_Number": 83,
+    "Confirmed_Cases": 405
+  },
+  {
+    "Week_Number": 84,
+    "Confirmed_Cases": 413
+  },
+  {
+    "Week_Number": 85,
+    "Confirmed_Cases": 389
+  },
+  {
+    "Week_Number": 86,
+    "Confirmed_Cases": 338
+  },
+  {
+    "Week_Number": 87,
+    "Confirmed_Cases": 222
+  }
+]
